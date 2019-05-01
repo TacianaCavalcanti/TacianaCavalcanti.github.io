@@ -5,6 +5,8 @@
 }
 body{
 	background-image: url("https://tacianacavalcanti.github.io/img/topo-sp.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
 main{
 	margin: 0% auto;
