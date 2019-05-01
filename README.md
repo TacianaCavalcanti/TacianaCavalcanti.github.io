@@ -1,8 +1,8 @@
 #Site Pessoal/curriculo
-https://tacianacavalcanti.github.io/
+#https://tacianacavalcanti.github.io/
 
 
 #Midias
 
-Background 
+#Background 
 Foto de Lucas Nogueira no Pexels
