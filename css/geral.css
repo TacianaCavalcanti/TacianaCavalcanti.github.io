@@ -18,18 +18,18 @@ main{
 }
 header{
 	height: 29%;
-	border: 2px solid #000;
+	
 }
 #trabalho{
 	width: 69%;
 	height: 50%;
 	float: right;
-	border: 2px solid #f00;
+	
 }
 #pessoal{
 	width: 29%;
 	height: 50%;
-	border: 2px solid #0f0;
+	
 }
 footer{
 	
