@@ -1,10 +1,10 @@
-#Site Pessoal/curriculo
-
-#https://tacianacavalcanti.github.io/
 
 
-#Midias
+# Taciana
 
-#Background 
+## Material de terceiros usado
+1. Midias
 
-Foto de Lucas Nogueira no Pexels
+2. Background 
+
+[Site]:https://tacianacavalcanti.github.io/
