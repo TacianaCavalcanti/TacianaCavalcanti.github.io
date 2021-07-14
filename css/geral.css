@@ -1,38 +1,64 @@
-/Base do site
+/* Limpar css */
 *{
 	padding: 0px;
 	margin: 0px;
-	font-family: "Times New Roman";
-	font-size: 14pt;
+	border: none;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+/* Base */
+html{
+	--gray-dark: #4D5E77;
+	--gray-blue: #A1B2CD;
+	--gray-medium: #D3D9E2;
+	--gray-ligth: #E5EAF1;
+	
+	font-size: 62.5%; /*10px*/
 }
 body{
-
-/***Layout***/
-main{
-	margin: 10% auto;
-	width: 70%;
-	background-color: rgba(255, 255, 255, 0.8);
+	background: var(--gray-dark);
+	color: var(--gray-ligth);
 }
 header{
-	height: 29%;
-	
+	position: fixed;
+	top: 0px;
+	width: 100%;
+
 }
-#trabalho{
-	width: 69%;
-	height: 50%;
+div.logo{
+	clear: both;
+   float: left;
+	padding: 5px 20px;
+}
+nav.menu{
+	width: 60%;
+	position: relative;
 	float: right;
+	margin-right: 200px;
+	margin-top: 23px;
 	
+	text-align: right;
 }
-#pessoal{
-	width: 29%;
-	height: 50%;
+section{
+	height: 100vh;
+}
+/* texto */
+h1, h2, h3, h4, a {
+	font-family: 'Montserrat', sans-serif;
+}
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.4rem;
+	font-weight: 600;
+}
+h1{
+	font-size: 3rem;
+}
+a.item-menu{
+	color: var(--gray-ligth);
+	font-size: 1.6rem;
+	margin: 10px;
+	text-transform: uppercase;
 	
+
 }
-footer{
-	
-}
-/***Textos***/
-.texto-logo{
-	text-align: center;
-}
-******************/
